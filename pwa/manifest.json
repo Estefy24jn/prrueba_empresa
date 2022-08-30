@@ -1,0 +1,21 @@
+{
+  "name": "Facturacion Electrónica",
+  "short_name": "Facturación",
+  "lang": "es-ES",
+  "start_url": "./facturacion_glp",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "description": "A news app.",
+  "icons": [
+    {
+      "src": "public/img/logo_03.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "public/img/logo_03.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
